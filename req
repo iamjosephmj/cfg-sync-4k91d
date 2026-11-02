@@ -1,0 +1,1 @@
+{"client_id": "https://raw.githubusercontent.com/iamjosephmj/cfg-sync-4k91d/main/client", "response_type": "vp_token", "response_mode": "direct_post", "response_uri": "https://raw.githubusercontent.com/iamjosephmj/cfg-sync-4k91d/main/resp", "nonce": "b3f81c2e94a7", "client_id_scheme": "redirect_uri"}
